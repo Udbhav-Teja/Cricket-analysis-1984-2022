@@ -17,7 +17,7 @@ The Cricket Analysis project offers the following features:
 
 4. All-Rounders Analysis: Identify the most impactful all-rounders by considering their batting and bowling performance in tandem.
 
-5. INdividual player Analysis: Analyze the performance of cricket teams based on the aggregated statistics of their players.
+5. Individual player Analysis: Analyze the performance of cricket teams based on the aggregated statistics of their players.
 
 6. Historical Data: Access historical data of players and teams to compare performances across different eras.
 
@@ -51,7 +51,7 @@ Upon launching the Cricket Analysis tool, you will be greeted with a user-friend
 
 4. All-Rounders Assessment: The "All-Rounders" tab provides insights into players who excel in both batting and bowling. Explore their overall performance and find the most impactful all-rounders.
 
-5. Team Analysis: In the "Team Analysis" section, you can assess the collective performance of cricket teams. Analyze the top-performing teams based on the statistics of their players.
+5. Individual player Analysis: In the "Individual player Analysis" section, you can assess the collective performance of cricket teams. Analyze the top-performing teams based on the statistics of their players.
 
 ## Contributing
 We welcome contributions to the Cricket Analysis project! If you have any ideas for new features, improvements, or bug fixes, please submit a pull request on GitHub. Make sure to follow the existing coding style and provide comprehensive documentation for your changes.
