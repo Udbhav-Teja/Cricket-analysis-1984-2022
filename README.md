@@ -36,7 +36,9 @@ To use the Cricket Analysis project, please follow these steps:
 4. Launch the application:
 
 
-5. Open your web browser and access the Cricket Analysis tool at `http://localhost:8000`.
+5. Open any of your web browse
+
+
 
 ## Usage
 Upon launching the Cricket Analysis tool, you will be greeted with a user-friendly interface. Here's a brief overview of how to use the tool:
