@@ -15,9 +15,9 @@ The Cricket Analysis project offers the following features:
 
 3. Bowling Analysis: Evaluate the bowling skills of players by examining their bowling average, economy rate, wickets taken, five-wicket hauls, and other pertinent data.
 
-4. All-Rounders Assessment: Identify the most impactful all-rounders by considering their batting and bowling performance in tandem.
+4. All-Rounders Analysis: Identify the most impactful all-rounders by considering their batting and bowling performance in tandem.
 
-5. Team Analysis: Analyze the performance of cricket teams based on the aggregated statistics of their players.
+5. INdividual player Analysis: Analyze the performance of cricket teams based on the aggregated statistics of their players.
 
 6. Historical Data: Access historical data of players and teams to compare performances across different eras.
 
